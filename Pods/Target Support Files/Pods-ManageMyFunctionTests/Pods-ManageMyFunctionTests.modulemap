@@ -1,0 +1,6 @@
+framework module Pods_ManageMyFunctionTests {
+  umbrella header "Pods-ManageMyFunctionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
